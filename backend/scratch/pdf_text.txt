@@ -1,0 +1,228 @@
+
+--- D:\ACIP_Platform_Project\489.cleaned.pdf ---
+GERMANY
+Nos.
+N Y
+N N
+Y N
+T - Transaction
+Supplier Details :
+1.0000EUR = 113.0000
+SlNo RITC   Description RSP Load PROV
+Qty End Use Unit Price CTH Cus Duty
+Unit Country Ass Val CETH Exc Duty
+1 74072910
+0.140000 GNX200 135.000000 74072910  0%
+MTR DE 2135.700
+4.500000 %
+KGS 0
+10%
+0%
+0%
+5%
+0%
+NCD
+ADIC (Customs)
+ADIC (SWC)
+State Tax Type IGST Cess
+27 G 0
+Inv No Item No Ntfn No (L) SL. No Duty Type Addl. Flag Ntfn No (E) Sl No Issued By
+1 1 009/2025 I472 GST IGST
+1 1 001/2017 56 GST IGST Cess
+27AAACM8029J1ZA 2135.7 106.8
+SB Duty/IGST NotificationDetails
+Duty Payable : Rs.106.80
+Rupees one hundred six and paise  eighty Only
+Commercial Tax Declaration/IGST Declaration
+Registration No IGST AV IGST
+Rs.106.80
+IGST Cess Rs.0.00
+Health Cess (Customs) Rs.0.00
+ADIC (Excise) Rs.0.00
+Rs.0.00
+S.W. Surcharge Rs.0.00
+Addl. Duty Rs.0.00
+SVB Rs.0.00
+Health Cess Rs.0.00
+Rs.0.00
+Rs.0.00
+Rs.0.00
+SAFEGUARD Duty
+Sch 2 Spl Excise Duty
+GSIA
+IGST
+CESS Rs.0.00
+TTA Rs.0.00
+Health duty Rs.0.00
+CVD Rs.0.00
+Customs (CVD) Rs.0.00
+ANTID Rs.0.00
+IGST Cess       : 001/2017/56 @ 0% 0.00
+Rs.2135.70
+BCD Rs.0.00
+Rs.0.00
+Rs.0.00
+Addl Duty - (Imports)     : 0.00
+IGST            : 009/2025/I472 @ 5% 106.80
+Social Welfare Surcharge    : 0.00
+Health Cess (Customs)       : 0.00
+IAN NAVY SUBMARINE PARTS FOR DEFENCE USE)
+045/2025/I351@ 0 0.00
+0.00
+AIDC (Customs)              : 011/2021/17@ 0 0.00
+Item Details
+C.Notn C.NSNO
+E.Notn E.NSNO
+BCD Amt (Rs)
+CVD Amt (Rs)
+ROUND BARS 65 140P 2.1504 CUNI14AL3 (PO NO-34100000059) (IND
+buyer and seller related: N
+Terms of Invoice: DP - Document Presentation Exchange Rate :
+AEO Country     :
+AEO Role        :
+Discount        :   EUR 0.000%
+Terms Place     :
+AEO Code        :
+SVB Load (Dty)  : HSS Load Rate: Amount :0.00
+Misc. Charges   : 0  0.000% Other Misc. Charges   :0.00 EUR
+GERMANYCommission      : 0    0.000%
+SVB RefNo & Date:
+SVB Load (Ass)  : Cust. House :
+24143 KIELInsurance       : 0    0.00000%
+Load            : 0    0.000%
+TKMS GMBH
+Inv Val         : 18.9 EUR  TOI:CIF
+WERFTSTRASSE 112-114Freight         : 0    0.000%
+UCR No          : UCR Type         :
+Payment Method  :
+Invoice Sl. No  : 1
+Inv No & Dt     : 67308    17-06-2026
+Kachcha BE      : Green channel    :
+High Sea Sale   : Section 48       :
+Prior BE        : First Check      :
+H.BL/AWB No      : MEN60149666
+Date             : 17-06-2026
+Gross Wt.        : 5.200KGS
+Date            : 17-06-2026
+No. of Pkgs.    : 1.000PKG
+Marks           :EY/MRLC/AIR/14/26-27 MDL JOB NO-60 KLPL JOB NO-489
+Port of Loading  : HAMBURG
+Port of Origin   : HAMBURG
+Cntry of Consign :
+IGM No          :   
+Inward date     :
+Cntry of Orgn.  : GERMANY
+BL/AWB No       : 02023590512
+MAZAGON DOCK SHIPBUILDERS LIMITED
+0      :DOCKYARD ROAD, MUMBAI
+MUMBAI-400010
+AD Code :0006070
+SAHAR AIR CARGO (Air Cargo)
+CHA :AAECK8850HCH002 [KARGO LEAGUE LOGISTICS PVT LTD]
+Printed through Focus Server Edition Version 8.0.0.26 on 18/06/2026 11:49:50
+KARGO LEAGUE LOGISTICS PVT LTD
+BILL OF ENTRY FOR HOME CONSUMPTION - CHECKLIST
+[Custom Stn :INBOM4]
+BE No./Dt./CC/Type/DktRefNo/Dt./JobNo ://N/H///Job No:489 Date:18-06-2026
+Importer Details :0388070412(AAACM8029J) Formatted Job:I/A/000489/26-27
+Page 1
+SAHAR AIR CARGO (Air Cargo)
+CHA :AAECK8850HCH002 [KARGO LEAGUE LOGISTICS PVT LTD]
+Printed through Focus Server Edition Version 8.0.0.26 on 18/06/2026 11:49:50
+KARGO LEAGUE LOGISTICS PVT LTD
+BILL OF ENTRY FOR HOME CONSUMPTION - CHECKLIST
+[Custom Stn :INBOM4]
+BE No./Dt./CC/Type/DktRefNo/Dt./JobNo ://N/H///Job No:489 Date:18-06-2026
+Inv No Item No Dec Type Date Stmnt Type
+0 0 B DEC
+0 0 B DEC
+1 0 B DEC
+1 0 B DEC
+1 0 B DEC
+Signature of CHA
+******* End of Checklist for Job No 489 *******
+I/We declare that there are no payments actually paid or payable for the imported goods by way of 
+CUV03
+DECLARATION
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been truthfully declared
+I/We declare that all conditions or restrictions, if any, imposed by the seller of any third party on the disposition or use of the imported goods [as per proviso to Rule 3(2)) of the Customs Valuation Rules, 2007] are specified above.
+CUV01
+I/We declare that the price paid or payable by the importer is as per the details provided above, and any price paid or payable in addition to the above will be settled with the seller at the end of a defined period by means of debit note / credit note (post 
+CUV02
+I/We declare that the contents of this Bill of Entry for goods imported against above mentioned Bill of Lading/ Airway Bill /Lorry Receipt/Railway Receipt numbers are in accordance with the above mentioned invoice(s) No(s)and other documents presented herewith.
+CUG00
+I/We declare that the contents of the above mentioned invoice(s) and documents are true and correct in every respect.I/We have not received and do not know of any other documents or information showing a different description, quantity, price, value, of the said goods and that if at any time hereafter I/We discover any document / information showing different facts, I/We will immediately make the same known to the Commissioner of Customs.
+CUG01
+Statement Details
+Statement Text
+Declaration No Statement Code
+Page 2
+
+--- D:\ACIP_Platform_Project\Vessel_Customs_Clearance_Checklist.pdf ---
+CUSTOMS BOARDING & CLEARANCE CHECKLIST
+Standard Operating Procedure for Vessel Inspection & Entry Inward Facilitation
+Vessel Name IMO / Registry No.
+Nationality / Flag Voyage Number
+Port of Berth / Anchor Last Port of Call
+Date & Time of Arrival Boarding Officer Name
+PHASE 1: PRE-BOARDING ADMINISTRATION & RISK PROFILING
+✔ INSPECTION PARAMETER VERIFICATION & COMPLIANCE NOTES STATUS /
+REMARKS
+Manifest Verification Verify Sea Arrival Manifest (SAM) or Import
+General Manifest (IGM) data filed on the customs
+portal.
+Vessel Risk Assessment Review previous compliance history, flags, and
+blacklists for high-risk origins/routes.
+PPE & Safety Readiness Ensure mandatory boarding gear (safety boots,
+high-vis jacket, tactical flashlight, radiation pager)
+is active.
+PHASE 2: PHYSICAL BOARDING & DOCUMENT AUDIT
+✔ INSPECTION PARAMETER VERIFICATION & COMPLIANCE NOTES STATUS /
+REMARKS
+Master Interview & Log ReviewExamine the Deck Logbook and Master’s Personal
+Log to cross-verify port arrival timelines and route
+track.
+Statutory Declarations CollectCollect duplicate signed copies of General Dec,
+Crew List, Vessel Store List, and Maritime
+Declaration of Health.
+Crew Property Declarations Crosscheck individual Crew Private Property
+Declarations (cash/currency, personal high-value
+electronics).
+Official Use Only - Customs & Maritime Operations Page 1 of 3
+PHASE 3: BONDED STORE AUDITING & SEALING
+✔ INSPECTION PARAMETER VERIFICATION & COMPLIANCE NOTES STATUS /
+REMARKS
+Bonded Inventory Audit Physically count high-risk excise commodities
+(liquor bottles, cigarettes, commercial tobacco
+stocks).
+Customs Seal Application Affix official Customs physical seals on bonded
+lockers. Record the precise seal numbers in the
+report.
+Controlled Substance Audit Audit the ship’s medical locker for narcotics,
+psychotropics, and restricted medical drugs.
+Ensure safe lockup.
+Arms & Ammunition Check Verify anti-piracy weapons, ammunition rounds,
+and regulatory safe-keep holdings against
+declarations.
+PHASE 4: PHYSICAL VESSEL & TECHNICAL VERIFICATION
+✔ INSPECTION PARAMETER VERIFICATION & COMPLIANCE NOTES STATUS /
+REMARKS
+Load Line / Plimsoll Marks Visually check draft marks and Plimsoll lines to
+prevent illicit over-weighting or unauthorized cargo
+drops.
+Bunker & Fuel Logs Check Oil Record Book (ORB) entries and cross-
+verify heavy fuel oil (HFO) / marine gas oil (MGO)
+remaining volumes.
+Spot Quarter Inspection Execute random physical spot checks (min 5%) of
+crew cabins to intercept undeclared contraband or
+contraband pools.
+PHASE 5: CLEARANCE AUTHORIZATION & SIGN-OFF
+✔ INSPECTION PARAMETER VERIFICATION & COMPLIANCE NOTES STATUS /
+REMARKS
+Discrepancy Evaluation Identify and formalize any shortfalls or undeclared
+assets. Issue fine/detention warnings if necessary.
+Grant Inward Entry Sign off on the physical boarding document to
+officially authorize the start of shore cargo
+unloading.
+Official Use Only - Customs & Maritime Operations Page 2 of 3
