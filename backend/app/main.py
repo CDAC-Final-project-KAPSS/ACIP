@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.v1 import cases, auth, admin
+from app.api.v1 import cases, auth, admin, chat
 
 from contextlib import asynccontextmanager
 from app.db.database import AsyncSessionLocal
@@ -47,6 +47,7 @@ app.add_middleware(
 app.include_router(cases.router)
 app.include_router(auth.router)
 app.include_router(admin.router)
+app.include_router(chat.router)
 
 @app.get("/")
 def read_root():

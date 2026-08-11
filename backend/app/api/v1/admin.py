@@ -73,6 +73,8 @@ async def delete_user(user_id: str, db: AsyncSession = Depends(get_db), admin_us
     await db.commit()
     return {"message": f"User {user.email} deleted successfully"}
 
+
+
 from fastapi import UploadFile, File, Form
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter

@@ -90,8 +90,6 @@ def generate_boe_pdf(slip_data: dict) -> io.BytesIO:
         "1. I/We Certify that the above entries are correct.",
         "2. I/We further declare that wherever the RSP is applicable same has been truthfully declared.",
         "-------------------------------------------------------------------------------------------------------------------",
-        f"AI Remarks: {slip_data.get('validation_reason', 'Validated successfully.')}",
-        "-------------------------------------------------------------------------------------------------------------------",
         "                                                                                    Signature of CHA"
     ]
     
@@ -201,10 +199,14 @@ def generate_checklist_pdf(slip_data: dict) -> io.BytesIO:
 
 def create_phase_table(title: str, rows: list) -> Table:
     """Helper to build a phase block like in the Checklist PDF."""
+    styles = getSampleStyleSheet()
+    cell_style = ParagraphStyle('CellStyle', parent=styles['Normal'], fontSize=9, fontName='Helvetica', leading=11)
+    
     data = [[title, "", ""]]
     data.append(["INSPECTION PARAMETER", "VERIFICATION & COMPLIANCE NOTES", "STATUS"])
     for row in rows:
-        data.append(row)
+        wrapped_notes = Paragraph(str(row[1]).replace('\n', '<br/>'), cell_style)
+        data.append([row[0], wrapped_notes, row[2]])
         
     t = Table(data, colWidths=[130, 300, 100])
     t.setStyle(TableStyle([

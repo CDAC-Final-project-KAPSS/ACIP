@@ -5,6 +5,7 @@ import AdminPortal from './AdminPortal'
 import KnowledgeBase from './KnowledgeBase'
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts'
 import acipLogo from './assets/aciplogo.png'
+import Chatbot from './components/Chatbot'
 
 function App() {
   const [authToken, setAuthToken] = useState<string | null>(localStorage.getItem('token'));
@@ -665,6 +666,8 @@ function App() {
       </main>
       </div>
       )}
+
+      {authToken && <Chatbot userRole={userRole} authToken={authToken} />}
 
       {toastMessage && (
         <div className="toast-container-custom">

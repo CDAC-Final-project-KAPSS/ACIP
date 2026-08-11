@@ -44,7 +44,7 @@ export default function KnowledgeBase({ authToken }: { authToken: string }) {
   };
 
   return (
-    <div className="glass-card animate-fade-in container my-4 p-4 p-md-5" style={{ maxWidth: '800px' }}>
+    <div className="glass-card animate-fade-in container my-4 p-4 p-md-5" style={{ maxWidth: '1000px', minWidth: '680px' }}>
       <h2 className="mb-4 pb-3 border-bottom border-secondary">Regulation Knowledge Base</h2>
       <p className="text-secondary mb-4">
         Upload PDF documents containing customs regulations, trade restrictions, or compliance checklists. 
